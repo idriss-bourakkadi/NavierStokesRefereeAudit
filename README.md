@@ -54,6 +54,3 @@ opinspr_prover_v1.1.0/
 ### Compiling the Formal Library
 - To compile all 9 layers and the root aggregator module: lake build NavierStokesRefereeAudit
 - Expected output: Build completed successfully (887 jobs).
-
-# NavierStokesRefereeAudit
-# NavierStokesRefereeAudit
